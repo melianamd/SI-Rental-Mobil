@@ -1,0 +1,1 @@
+ <b id="welcome">Selamat Datang : <i><?php echo $login_session; ?></i></b>
